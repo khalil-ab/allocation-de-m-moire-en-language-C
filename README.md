@@ -58,6 +58,6 @@ Ensuite vous pouvez utiliser l'application
   <img src="/5.png">
 </p>
 
-Voici le lien pour la video de simulation : 
+Voici le lien pour la video de simulation : https://youtu.be/f5JLyIRySJA
 
 Voici mon email si on voudrait me contacter : abouabdelmajidkhalil@gmail.com
